@@ -1,0 +1,13 @@
+﻿  Graphics.cpp
+C:\Users\user\Desktop\Graphics\Graphics\Graphics.cpp(205,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\Desktop\Graphics\Graphics\Graphics.cpp(206,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\Desktop\Graphics\Graphics\Graphics.cpp(241,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\Graphics\Graphics\Graphics.cpp(304,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\Graphics\Graphics\Graphics.cpp(375,8): warning C4101: edgeWeight: неиспользованная локальная переменная
+C:\Users\user\Desktop\Graphics\Graphics\Graphics.cpp(408,8): warning C4101: targetVertex: неиспользованная локальная переменная
+C:\Users\user\Desktop\Graphics\Graphics\Graphics.cpp(409,8): warning C4101: edgeWeight: неиспользованная локальная переменная
+C:\Users\user\Desktop\Graphics\Graphics\graph.h(224,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\Graphics\Graphics\graph.h(228,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\Graphics\Graphics\graph.h(230,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\Graphics\Graphics\graph.h(171,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Graphics.vcxproj -> C:\Users\user\Desktop\Graphics\Debug\Graphics.exe
